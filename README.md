@@ -1,5 +1,7 @@
 # Data_Science0_Mentorama
-Repositório usado para guardar os exercícios realizados no curso "Cientista de dados do zero" do Mentorama \n\n
+Repositório usado para guardar os exercícios realizados no curso "Cientista de dados do zero" do Mentorama
+
+
 Módulo 1 - O mundo de dados
 Módulo 2 - Fundamentos básicos de Python 1
 Módulo 3 - Fundamentos básicos de Python 2
